@@ -1,7 +1,7 @@
 # Launch Pi
 Transfer your LaunchBox ROM library to RetroPie/EmulationStation
 
-Thanks to Wts42 (https://github.com/wts42/) for original inspiration script.
+Thanks to Wts42 (https://github.com/wts42/) for insipiration and original python script.
 
 ## TODO
 - Write better documentation
