@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "launch-pi"
+version = "0.1.0"
+description = ""
+authors = ["jordan <slurpyb@fastmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pydantic = "^2.5.3"
+pydantic-settings = "^2.1.0"
+pillow = "^10.1.0"
+loguru = "^0.7.2"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
